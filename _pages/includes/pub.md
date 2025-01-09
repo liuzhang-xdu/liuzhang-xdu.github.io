@@ -43,6 +43,7 @@
 
 
 - ``IEICE TFECCS 2019`` [Translation Equivalence of Boolean Functions Expressed by Primitive Element](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Deng Tang, Weihong Cai.
-- ``IEEE Access 2019`` [Fast Algebraic Immunity of $2^ m+ 2 \ \& \ 2^ m+ 3$ Variables Majority Function](https://ieeexplore.ieee.org/abstract/document/8737939), IEEE Access, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Fei Guo, Weihong Cai.
+  
+<!-- - ``IEEE Access 2019`` [Fast Algebraic Immunity of $2^ m+ 2 \ \& \ 2^ m+ 3$ Variables Majority Function](https://ieeexplore.ieee.org/abstract/document/8737939), IEEE Access, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Fei Guo, Weihong Cai.
 - ``IEEE Access 2019`` [A Lower Bound of Fast Algebraic Immunity of A Class of 1-resilient Boolean Functions](https://ieeexplore.ieee.org/abstract/document/8755285), IEEE Access, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Jianlong Xu, Weihong Cai.
-- ``IEEE Access 2019`` [Constructing Two Classes of Boolean Functions with Good Cryptographic Properties](https://ieeexplore.ieee.org/abstract/document/8868156), IEEE Access, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Zhangquan Gong, Weihong Cai.
+- ``IEEE Access 2019`` [Constructing Two Classes of Boolean Functions with Good Cryptographic Properties](https://ieeexplore.ieee.org/abstract/document/8868156), IEEE Access, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Zhangquan Gong, Weihong Cai. -->
