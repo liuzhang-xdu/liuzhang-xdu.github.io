@@ -1,3 +1,7 @@
+# 💻 Work Experiences
+
+- 2025.02 - present, Research Fellow in Nanyang Technological University, Supervised by Thomas Peyrin.
+
 # 📖 Educations
 
 - 2022.10 - 2024.09, Visiting PhD Student, School of Physical and Mathematical Sciences, Nanyang Technological University, Supervised by Jian Guo.
