@@ -29,7 +29,7 @@
 
 - ``IACR CIC 2024`` [Improving Differential-neural Cryptanalysis](https://cic.iacr.org/p/1/3/13), IACR Communications in Cryptology, **<font color=DarkBlue>Liu Zhang</font>**, Zilong Wang, Baocang Wang.
 - ``IEICE 2024`` [Differential-neural Cryptanalysis on AES](https://search.ieice.org/bin/summary.php?id=e107-d_10_1372), IEICE TRANSACTIONS on Information and Systems,**<font color=DarkBlue>Liu Zhang</font>**, Zilong Wang, Jinyu Lu.
-- ``IACR eprint 2024`` [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis](https://eprint.iacr.org/2024/322), Cryptology ePrint Archive, Weixi Zheng, **<font color=DarkBlue>Liu Zhang</font>**, Zilong Wang.
+<!-- - ``IACR eprint 2024`` [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis](https://eprint.iacr.org/2024/322), Cryptology ePrint Archive, Weixi Zheng, **<font color=DarkBlue>Liu Zhang</font>**, Zilong Wang. -->
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-- ``IACR eprint 2022`` [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers](https://eprint.iacr.org/2022/720), Cryptology ePrint Archive, **<font color=DarkBlue>Liu Zhang</font>**, Huawei Liu, Zilong Wang.
+<!-- - ``IACR eprint 2022`` [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers](https://eprint.iacr.org/2022/720), Cryptology ePrint Archive, **<font color=DarkBlue>Liu Zhang</font>**, Huawei Liu, Zilong Wang. -->
 
 
 - ``IEICE 2019`` [Translation Equivalence of Boolean Functions Expressed by Primitive Element](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Yindong Chen, **<font color=DarkBlue>Liu Zhang</font>**, Deng Tang, Weihong Cai.
