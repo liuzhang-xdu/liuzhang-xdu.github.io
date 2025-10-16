@@ -7,7 +7,7 @@
 - 2022.10 - 2024.09, Visiting PhD Student, School of Physical and Mathematical Sciences, Nanyang Technological University, Supervised by Jian Guo.
 - 2021.09 - 2024.12, PhD Student, School of Cyber Engineering, Xidian University, Supervised by Zilong Wang.
 - 2017.09 - 2020.06, Master, Colloge of Engineering, Shantou University, Supervised by Yindong Chen.
-- 2013.09 - 2016.06, Undergraduate, School of Computer and Inforamtion Technology, Xinyang Normal University.
+- 2013.09 - 2017.06, Undergraduate, School of Computer and Inforamtion Technology, Xinyang Normal University.
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
