@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liu Zhang(张柳)"
-description              : "Research Fellow, focusing on cryptanalysis and deep learning"
+description              : "Focusing on Symmetric Cryptography and Artificial Intelligence."
 repository               : "liuzhang-xdu/liuzhang-xdu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liu Zhang (张柳)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
+  bio              : "Research Fellow, Nanyang Technological University"
   location         : "Singapore"
   employer         :
   pubmed           : 
