@@ -1,8 +1,8 @@
 
 
-# 📝 Preprints
+<!-- # 📝 Preprints
 
-- ``IACR eprint`` [Neural Leakage Model: Correlation Power Analysis with Profiled Leakage Model using Deep Neural Networks](https://eprint.iacr.org/2025/1954), Cryptology ePrint Archive, Paper 2025/1954, Trevor Yap, Shivam Bhasin, **<font color=DarkBlue>Liu Zhang</font>**.
+- ``IACR eprint`` [Neural Leakage Model: Correlation Power Analysis with Profiled Leakage Model using Deep Neural Networks](https://eprint.iacr.org/2025/1954), Cryptology ePrint Archive, Paper 2025/1954, Trevor Yap, Shivam Bhasin, **<font color=DarkBlue>Liu Zhang</font>**. -->
 
 
 # 📝 Publications
