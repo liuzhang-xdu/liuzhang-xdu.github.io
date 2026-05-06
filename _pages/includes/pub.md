@@ -9,7 +9,7 @@
 
 - **2026**
 
-  - ``Eurocrypt 2026`` [Neural-inspired Advances in Integral Cryptanalysis](https://eprint.iacr.org/2025/852), Cryptology ePrint Archive, Paper 2025/852, **<font color=DarkBlue>Liu Zhang</font>**, Yiran Yao, Danping Shi, Dongchen Chai, Jian Guo, Zilong Wang.
+  - ``Eurocrypt 2026`` [Neural-inspired Advances in Integral Cryptanalysis](https://link.springer.com/chapter/10.1007/978-3-032-25333-0_16), Annual International Conference on the Theory and Applications of Cryptographic Techniques, **<font color=DarkBlue>Liu Zhang</font>**, Yiran Yao, Danping Shi, Dongchen Chai, Jian Guo, Zilong Wang.
 
 - **2025**
   - ``Inscrypt 2025`` [Exploring AI-Assisted Cryptanalytic Attacks on Multisets](https://link.springer.com/chapter/10.1007/978-981-95-6206-0_23), International Conference on Information Security and Cryptology, Longxiang Wei, Hao Lei, Kai Hu, **<font color=DarkBlue>Liu Zhang</font>**, Meiqin Wang.
