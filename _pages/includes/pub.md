@@ -9,6 +9,8 @@
 
 - **2026**
 
+  - ``Asiacrypt 2026`` Finite-Precision Error Analysis of Cryptanalytic Model Extraction, International Conference on the Theory and Application of Cryptology and Information Security, Duo Xu, **<font color=DarkBlue>Liu Zhang</font>**, Zilong Wang.(Co-first author, Co-corresponding author)
+
   - ``Eurocrypt 2026`` [Neural-inspired Advances in Integral Cryptanalysis](https://link.springer.com/chapter/10.1007/978-3-032-25333-0_16), Annual International Conference on the Theory and Applications of Cryptographic Techniques, **<font color=DarkBlue>Liu Zhang</font>**, Yiran Yao, Danping Shi, Dongchen Chai, Jian Guo, Zilong Wang.
 
 - **2025**
