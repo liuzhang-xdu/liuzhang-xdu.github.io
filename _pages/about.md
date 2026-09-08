@@ -12,7 +12,4 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
-{% include_relative includes/work_edu.md %}
-
-
-{% include_relative includes/honers.md %}
+{% include_relative includes/contact.md %}
