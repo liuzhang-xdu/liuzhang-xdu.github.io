@@ -2,6 +2,9 @@
 
 ## 2026
 
+- **“Artificial Intelligence and Cryptography: Interdisciplinary Research”**\
+  at the Information and AI Security Forum (Session 6) of [ICAI 2026](https://icai-conf.com/), Hangzhou, China, September 30, 2026
+
 - **“Neural-Inspired Advances in Integral Cryptanalysis”**  
   at The 4th Young Researchers Forum on Large Model Safety, together with the 11th Application Security Pioneer Forum, Singapore, Singapore, April 29th 2026
 

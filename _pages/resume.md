@@ -10,4 +10,4 @@ author_profile: true
 
 {% include_relative includes/work_edu.md %}
 
-{% include_relative includes/honers.md %}
+<!-- {% include_relative includes/honers.md %} -->
